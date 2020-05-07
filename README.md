@@ -1,4 +1,5 @@
 # vue-testing
+<<<<<<< HEAD
 
 > Nuxt.js project
 
@@ -21,3 +22,6 @@ $ npm run generate
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
+=======
+Testing a vue.js project
+>>>>>>> 92769720014506261e8bc5ddfd7ee49fd39ae99b
